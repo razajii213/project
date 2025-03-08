@@ -1,0 +1,51 @@
+OrderID,Product,Category,Quantity,Price,Date
+1001,Laptop,Electronics,2,75000,2025-01-15
+1002,Mouse,Electronics,5,500,2025-01-16
+1003,Shirt,Clothing,3,1200,2025-01-17
+1004,Mobile,Electronics,1,20000,2025-01-18
+1005,Book,Stationery,4,300,2025-01-19
+1006,Headphones,Electronics,2,1500,2025-01-20
+1007,Pants,Clothing,2,1500,2025-01-21
+1008,Notebook,Stationery,10,50,2025-01-22
+1009,Keyboard,Electronics,3,800,2025-01-23
+1010,Pen,Stationery,20,10,2025-01-24
+1011,Camera,Electronics,1,30000,2025-01-25
+1012,Tablet,Electronics,2,25000,2025-01-26
+1013,T-Shirt,Clothing,5,500,2025-01-27
+1014,Charger,Electronics,3,800,2025-01-28
+1015,Diary,Stationery,6,200,2025-01-29
+1016,Watch,Accessories,2,5000,2025-01-30
+1017,Bag,Accessories,3,1200,2025-01-31
+1018,Router,Electronics,1,2000,2025-02-01
+1019,Cap,Clothing,4,300,2025-02-02
+1020,Speaker,Electronics,2,3500,2025-02-03
+1021,Glasses,Accessories,1,1500,2025-02-04
+1022,Pencil,Stationery,30,5,2025-02-05
+1023,Power Bank,Electronics,2,1200,2025-02-06
+1024,Jeans,Clothing,3,1800,2025-02-07
+1025,Lamp,Home Decor,2,800,2025-02-08
+1026,Cable,Electronics,10,50,2025-02-09
+1027,Bottle,Accessories,5,300,2025-02-10
+1028,Mirror,Home Decor,2,1500,2025-02-11
+1029,Calculator,Stationery,1,600,2025-02-12
+1030,Perfume,Accessories,1,2000,2025-02-13
+1031,Monitor,Electronics,1,12000,2025-02-14
+1032,Shoes,Clothing,2,2500,2025-02-15
+1033,Table,Home Decor,1,5000,2025-02-16
+1034,Brush,Stationery,12,20,2025-02-17
+1035,Tripod,Accessories,1,1800,2025-02-18
+1036,Drone,Electronics,1,50000,2025-02-19
+1037,Hat,Clothing,2,400,2025-02-20
+1038,Fan,Home Decor,1,3000,2025-02-21
+1039,USB Drive,Electronics,5,500,2025-02-22
+1040,Gloves,Clothing,3,600,2025-02-23
+1041,Curtain,Home Decor,2,1200,2025-02-24
+1042,Desk,Home Decor,1,7000,2025-02-25
+1043,Bluetooth,Electronics,2,3000,2025-02-26
+1044,Socks,Clothing,10,50,2025-02-27
+1045,Pen Drive,Electronics,3,600,2025-02-28
+1046,Scarf,Clothing,2,350,2025-02-29
+1047,Frame,Home Decor,2,900,2025-03-01
+1048,Clock,Home Decor,1,2500,2025-03-02
+1049,Stand,Home Decor,2,1200,2025-03-03
+1050,Blender,Electronics,1,4000,2025-03-04
